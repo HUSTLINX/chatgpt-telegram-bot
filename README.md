@@ -41,6 +41,10 @@ PRs are always welcome!
 - An [OpenAI](https://openai.com) account (see [configuration](#configuration) section)
 
 ## Getting started
+### Host on Heroku
+
+<p><a href="https://heroku.com/deploy?template=https://github.com/TerminalWarlord/TikTok-Downloader-Bot/tree/master"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
+
 
 ### Configuration
 Customize the configuration by copying `.env.example` and renaming it to `.env`, then editing the required parameters as desired:
