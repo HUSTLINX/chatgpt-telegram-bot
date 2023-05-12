@@ -11,6 +11,7 @@ import requests
 import json
 from datetime import date
 from calendar import monthrange
+os.system('pip install tiktoken') 
 
 # Models can be found here: https://platform.openai.com/docs/models/overview
 GPT_3_MODELS = ("gpt-3.5-turbo", "gpt-3.5-turbo-0301")
